@@ -14,6 +14,7 @@ npm run dev
 ```
 npx prisma studio
 ```
+### Code structure
 
 | File/Folder  	   									| Primary use    																			|
 | :-------------------------------- | :-------------------------------------------------- |
