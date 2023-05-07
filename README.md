@@ -1,5 +1,5 @@
-# # Employee react app
-```
+# Employee react app
+
 ## Server - Node.js, express, cors, bcrypt, jwt, prismaORM, sqlite, i18next
 ## Client - React, TS, reduxTK, redux-persist, Ant`D, i18next
 
