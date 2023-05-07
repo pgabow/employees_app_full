@@ -1,0 +1,81 @@
+{
+  "header": {
+    "title": "Employees",
+    "registration": "Register",
+    "hi": "Hi",
+    "login": "Sign in",
+    "logout": "Sign out"
+  },
+  "login": {
+    "signin": "Sign in",
+    "login": "Sign in",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "noaccount": "No account?",
+    "registrationBtn": "Register"
+  },
+  "notice": {
+    "required": "Required field",
+    "passAlarm6": "Password must be longer than 6 characters",
+    "passAlarmCheck": "Passwords must match",
+    "characters": "At least three characters"
+  },
+  "registration": {
+    "signin": "Register",
+    "login": "Register",
+    "noaccount": "Already registered?",
+    "loginBtn": "Sign in"
+  },
+  "table": {
+    "name": "Name",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "adress": "Adress",
+    "email": "Email",
+    "age": "Age",
+    "showMore": "Show more"
+  },
+  "btn": {
+    "add": "Add",
+    "back": "Return",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "modal": {
+    "title": "Confirm deletion",
+    "desc": "Are you sure you want to remove the employee from the table?"
+  },
+  "addEmployee": {
+    "title": "Add employee",
+    "button": "Add"
+  },
+  "editEmployee": {
+    "title": "Edit employee info",
+    "button": "Save"
+  },
+  "confirm": {
+    "save": "Employee saved successfully",
+    "delete": "Employee deleted successfully",
+    "back": "To home page"
+  },
+  "other": {
+    "action": "Аction",
+    "info": "Employee information",
+    "addEmpl": "Employee saved successfully",
+    "editEmpl": "Employee changed successfully",
+    "deleteEmpl": "Employee deleted successfully",
+    "btnBack": "To home page",
+    "notFound": "Not found"
+  },
+  "spinner": {
+    "title": "Loading"
+  },
+  "notFound": {
+    "title": "Nothing found",
+    "description": "Sorry, this page is missing",
+    "back": "Go back to the main page"
+  }
+}

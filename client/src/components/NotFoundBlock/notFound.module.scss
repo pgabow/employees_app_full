@@ -1,0 +1,40 @@
+.root {
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 60px;
+    padding-bottom: 50px;
+}
+
+.smiley {
+    font-size: 75px;
+    margin-bottom: 6px;
+}
+
+.title {
+    margin-bottom: 26px;
+}
+
+.description {
+    font-size: 20px;
+    color: #4f4f4edc;
+    margin-bottom: 45px;
+}
+
+.btn {
+    width: 220px;
+    height: 46px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    border-radius: 30px;
+    background-color: #282828;
+    transition: 0.2s;
+    cursor: pointer;
+
+    &:hover {
+        background-color: #393939;
+    }
+}

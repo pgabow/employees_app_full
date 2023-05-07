@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, body > div {
+  height: 100%;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #141414;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+	
+}
+
+.main__wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    
+    .main_wrap {
+        flex: 1 0 auto;
+    }
+    
+}
+/* Цвет фона за текстом checkedChildren и unCheckedChildren */
+.ant-switch-inner {
+  background-color: #a08f8f4f;
+}
+
+/* Цвет текста checkedChildren и unCheckedChildren */
+.ant-switch-checked .ant-switch-inner {
+  background-color: #7e7e7e;
+}
+.suspense {
+	text-align: center;
+	margin-top: 50px;
+}

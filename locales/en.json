@@ -1,0 +1,12 @@
+{
+  "notAuth": "Not authorized",
+  "required": "Please fill in the required fields",
+  "invalid": "Invalid email or password entered",
+  "alreadyExists": "User with this e-mail already exists",
+  "failCreate": "Failed to create user",
+  "failGetEmplAll": "Failed to get employees",
+  "requiredAll": "All fields are required",
+  "failDelEmpl": "Failed to remove employee",
+  "failEditEmpl": "Failed to edit employee",
+  "failGetEmpl": "Failed to get employee"
+}
