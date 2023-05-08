@@ -25,7 +25,6 @@ npx prisma studio
 | `/routes`          			 					| HTTP to URL path associations for each unique url							|
 | `/prisma`          								| PrismaORM & DB & data models schema 													|
 | `/locales`           							| Language translation JSON files server app       							|
-| :-------------------------------- | :------------------------------------------------------------ |
 | `/client/src`        							| Source folder for development frontend react app 							|
 | `/client/src/ui`        					| UI custom components   																				|
 | `/client/src/app`        					| Serivices, hooks and store redux toolkit	 			    					|
